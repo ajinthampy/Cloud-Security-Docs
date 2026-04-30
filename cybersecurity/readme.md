@@ -9,4 +9,4 @@ This folder contains cybersecurity and cloud security-specific knowledge transfe
 - Remediation operating model
 Audit and assurance readiness
 
-This content is scoped only to cybersecuyrity scopes and deoes not override or replace other KT documenation in repository.
+This content is scoped only to cybersecurity scopes and deoes not override or replace other KT documenation in repository.
